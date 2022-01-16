@@ -10,5 +10,8 @@
 # 操作
 - カーソルキー
 
+# ゲーム画面
+![イライラスフィア](https://user-images.githubusercontent.com/22285365/149650998-0fb4b4e6-6ff9-482b-aa4b-13b317a02a5c.gif)
+
 # 開催リンク
 https://historia.co.jp/ue4petitcon16
